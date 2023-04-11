@@ -4,6 +4,8 @@ A simple JavaScript code snippet to demonstrate the use of guard clauses in func
 
 Guard clause technique is a programming pattern used to simplify complex nested conditional statements by returning early from a function when certain conditions are met. This approach improves code readability, reduces indentation levels, and makes the code easier to understand and maintain.
 
+Further information : https://www.youtube.com/watch?v=EumXak7TyQ0
+
 ## Features
 
 - Two variations of the `micro_controller_connect` function
